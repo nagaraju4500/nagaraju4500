@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="https://twitter.com/nagaraju_504" alt="nagarajushivapalli"/> </a> 
-https://quine.sh/?utm_source=widgets&utm_campaign=nagarajushivapalli
+[![nagarajushivapalli's GitHub | Languages Over Time](https://stats.quira.sh/nagarajushivapalli/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=nagarajushivapalli)
